@@ -6,8 +6,8 @@ def inicializar():
             linha.append(".")
         tab.append(linha)
     return tab
-print"@;
-def main( ):
+
+def maissn(ss ):
     jogo = inicializar( )
     print (jogo)
 
